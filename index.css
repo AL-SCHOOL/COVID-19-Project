@@ -2,13 +2,20 @@ header {
   background-color: #2cbf2c;
   text-align: center;
   padding: 30px;
-  font-size: 50px;
+  font-size: 40px;
+  color: white;
+}
+
+nav {
+  background-color: #2cbf2c;
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
   color: white;
 }
 
 aside {
   background-color: #2cbf2c;
-  text-align: left;
   padding: 50px;
   font-size: 20px;
   color: white;
@@ -18,6 +25,5 @@ footer {
   background-color: #2cbf2c;
   text-align: center;
   padding: 30px;
-  font-size: 10px;
   color: white;
 }
