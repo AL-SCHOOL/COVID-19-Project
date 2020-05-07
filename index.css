@@ -13,3 +13,11 @@ aside {
   font-size: 20px;
   color: white;
 }
+
+footer {
+  background-color: #2cbf2c;
+  text-align: center;
+  padding: 30px;
+  font-size: 10px;
+  color: white;
+}
