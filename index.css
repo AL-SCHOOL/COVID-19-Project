@@ -1,9 +1,13 @@
 header {
+  background-color: #2cbf2c;
   text-align: center;
   padding: 30px;
+  color: white;
 }
 
 aside {
+  background-color: #2cbf2c;
   text-align: left;
   padding: 50px;
+  color: white;
 }
