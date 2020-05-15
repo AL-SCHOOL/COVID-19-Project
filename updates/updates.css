@@ -1,0 +1,25 @@
+header {
+  background-color: #2cbf2c;
+  text-align: center;
+  padding: 30px;
+  font-size: 40px;
+}
+
+nav {
+  background-color: #acecac;
+  text-align: left;
+  padding: 30px;
+  font-size: 30px;
+}
+
+aside {
+  background-color: #acecac;
+  padding: 30px;
+  font-size: 20px;
+}
+
+footer {
+  background-color: #2cbf2c;
+  text-align: center;
+  padding: 30px;
+}
