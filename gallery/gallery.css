@@ -37,6 +37,7 @@ div.gallery img {
 }
 
 div.desc {
+  background-color: #ffffff;
   padding: 15px;
   text-align: center;
 }
